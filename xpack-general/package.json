@@ -2,12 +2,15 @@
   "name": "xpack-general",
   "displayName": "XPack (General)",
   "description": "Extension Pack for miscellaneous VS Code extensions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "fchieze",
   "engines": {
     "vscode": "^1.74.0"
   },
-  "repository": "https://github.com/Chieze-Franklin/xpack",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Chieze-Franklin/xpack.git"
+  },
   "icon": "icon.png",
   "galleryBanner": {
       "color": "#333333",
@@ -28,5 +31,20 @@
     "wmaurer.change-case",
     "ybaumes.highlight-trailing-white-spaces",
     "zxh404.vscode-proto3"
+  ],
+  "keywords": [
+    "Code Snap",
+    "Prettier",
+    "Makefile",
+    "Polacode",
+    "Thunder Client",
+    "Trailing Spaces",
+    "Spell Checker",
+    "Alphabetical Sorter",
+    "Change Case",
+    "Highlight",
+    "White Spaces",
+    "Proto",
+    "Proto3"
   ]
 }

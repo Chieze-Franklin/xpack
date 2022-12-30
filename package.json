@@ -1,0 +1,6 @@
+{
+  "name": "xpack",
+  "packageManager": "yarn@3.3.0",
+  "private": true,
+  "workspaces": ["xpack-general"]
+}

@@ -1,16 +1,9 @@
-# xpack-general README
+# xpack-general
 
-## Working with Markdown
+XPack (General) is an extension pack that installs miscellaneous VS Code extensions.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![image](https://user-images.githubusercontent.com/6097630/210098404-11f42006-b969-4ecd-b299-4978a12a63b1.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+For the list of installed extensions, see:
+- https://github.com/Chieze-Franklin/makefiles/blob/master/ide_extensions/general/Makefile
+- https://github.com/Chieze-Franklin/xpack/blob/main/xpack-general/package.json

@@ -1,0 +1,30 @@
+{
+  "name": "xpack-aws",
+  "displayName": "XPack (AWS)",
+  "description": "Extension Pack for popular AWS-related Code extensions",
+  "version": "0.0.2",
+  "publisher": "fchieze",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Chieze-Franklin/xpack.git"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+      "color": "#333333",
+      "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "amazonwebservices.aws-toolkit-vscode"
+  ],
+  "keywords": [
+    "Amazon",
+    "AWS",
+    "Web Services"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "xpack-jsts",
+  "displayName": "XPack (JavaScript/TypeScript)",
+  "description": "Extension Pack for popular JavaScript and TypeScript-related Code extensions",
+  "version": "0.0.2",
+  "publisher": "fchieze",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Chieze-Franklin/xpack.git"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+      "color": "#333333",
+      "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "firsttris.vscode-jest-runner",
+    "kisstkondoros.vscode-codemetrics",
+    "leizongmin.node-module-intellisense",
+    "Orta.vscode-jest",
+    "wix.vscode-import-cost"
+  ],
+  "keywords": [
+    "Code Metrics",
+    "ESLint",
+    "Import Cost",
+    "Jest",
+    "Jest Runner",
+    "Module Intellisense",
+    "Path Intellisense"
+  ]
+}

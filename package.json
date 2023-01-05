@@ -4,6 +4,7 @@
   "private": true,
   "workspaces": [
     "xpack-aws",
+    "xpack-container",
     "xpack-general",
     "xpack-jsts"
   ]

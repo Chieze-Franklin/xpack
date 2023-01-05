@@ -1,0 +1,30 @@
+{
+  "name": "xpack-graphql",
+  "displayName": "XPack (GraphQL)",
+  "description": "Extension Pack for popular GraphQL-related Code extensions",
+  "version": "0.0.3",
+  "publisher": "fchieze",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Chieze-Franklin/xpack.git"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+      "color": "#333333",
+      "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "GraphQL.vscode-graphql",
+    "GraphQL.vscode-graphql-execution",
+    "GraphQL.vscode-graphql-syntax"
+  ],
+  "keywords": [
+    "GraphQL"
+  ]
+}

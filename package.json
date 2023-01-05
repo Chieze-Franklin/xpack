@@ -6,6 +6,7 @@
     "xpack-aws",
     "xpack-container",
     "xpack-general",
+    "xpack-git",
     "xpack-jsts"
   ]
 }

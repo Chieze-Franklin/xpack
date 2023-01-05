@@ -7,6 +7,7 @@
     "xpack-container",
     "xpack-general",
     "xpack-git",
+    "xpack-graphql",
     "xpack-jsts"
   ]
 }

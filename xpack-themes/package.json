@@ -1,0 +1,30 @@
+{
+  "name": "xpack-themes",
+  "displayName": "XPack (Themes)",
+  "description": "Extension Pack for popular themes-related Code extensions",
+  "version": "0.0.2",
+  "publisher": "fchieze",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Chieze-Franklin/xpack.git"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+      "color": "#333333",
+      "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "EliverLara.sweet-vscode",
+    "EliverLara.sweet-vscode-icons"
+  ],
+  "keywords": [
+    "Sweet VsCode",
+    "Sweet VsCode Icons"
+  ]
+}

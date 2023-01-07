@@ -10,6 +10,7 @@
     "xpack-graphql",
     "xpack-jsts",
     "xpack-markdown",
-    "xpack-markup"
+    "xpack-markup",
+    "xpack-themes"
   ]
 }

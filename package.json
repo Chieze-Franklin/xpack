@@ -9,6 +9,7 @@
     "xpack-git",
     "xpack-graphql",
     "xpack-jsts",
-    "xpack-markdown"
+    "xpack-markdown",
+    "xpack-markup"
   ]
 }

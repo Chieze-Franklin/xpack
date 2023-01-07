@@ -1,0 +1,31 @@
+{
+  "name": "xpack-markup",
+  "displayName": "XPack (Markup)",
+  "description": "Extension Pack for popular markup-related Code extensions",
+  "version": "0.0.2",
+  "publisher": "fchieze",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Chieze-Franklin/xpack.git"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+      "color": "#333333",
+      "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag"
+  ],
+  "keywords": [
+    "Markup",
+    "Auto-Close",
+    "Auto-Rename"
+  ]
+}
